@@ -1,4 +1,4 @@
-# Clash代理工具使用教程
+# Windos端Clash代理工具使用教程
 
 下载地址：https://521github.com/clash-verge-rev/clash-verge-rev/releases
 
@@ -8,8 +8,20 @@
 
 **2、下载安装之后打开，选择订阅，输入订阅的地址链接，然后点击导入**
 
+订阅地址就是在刚刚的文档里面的**节点订阅地址**
+
+![image](https://github.com/xiaofeivip/tutorial/assets/37949125/b744de65-b428-4c1a-8d8c-f07b72755582)
+
+
 ![image-20240324212103359](https://github.com/xiaofeivip/tutorial/assets/37949125/9840f6c1-0c5c-4ef7-97b1-8f432f508349)
 
+这里如果提示导入失败，如下图所示，我们需要把订阅地址转换一下，如果没有失败忽略当前步骤
+
+![d7c52128d0aa00d52d30d64a5d96823](https://github.com/xiaofeivip/tutorial/assets/37949125/b07d29b1-2733-45a1-a475-83ad19f1cc1e)
+
+打开：https://psub.888005.xyz/，粘贴订阅地址，然后生成订阅，点击复制即可
+
+![image](https://github.com/xiaofeivip/tutorial/assets/37949125/cf27732e-058a-4745-8e65-c7d00fdc809d)
 
 **2、选择代理，选择数字最小的即可**
 
@@ -31,3 +43,14 @@
 https://www.google.com/
 
 ![image](https://github.com/xiaofeivip/tutorial/assets/37949125/736b94ee-dd16-428c-a146-204c61461ff1)
+
+# 安卓端
+
+公众号回复：**562222**，该软件注册即可用，永久免费
+
+
+# 收费的订阅机场
+
+可以购买一下，作为备用，如果免费的失效了，可以临时用一下收费的，它这个价格便宜，而且不限制使用时间。
+
+![image](https://github.com/xiaofeivip/tutorial/assets/37949125/3a4ef3ed-1865-4144-8fee-b044c3736001)
