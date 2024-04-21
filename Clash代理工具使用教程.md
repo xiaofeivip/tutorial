@@ -54,3 +54,11 @@ https://www.google.com/
 可以购买一下，作为备用，如果免费的失效了，可以临时用一下收费的，它这个价格便宜，而且不限制使用时间。
 
 ![image](https://github.com/xiaofeivip/tutorial/assets/37949125/3a4ef3ed-1865-4144-8fee-b044c3736001)
+
+# ClashAndroid安卓版下载地址以及详细使用教程
+
+https://521github.com/xiaofeivip/tutorial/blob/main/ClashAndroid%E5%AE%89%E5%8D%93%E7%89%88%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80%E4%BB%A5%E5%8F%8A%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md
+
+# v2rayN Windows 电脑版 下载地址以及详细使用教程
+
+https://521github.com/xiaofeivip/tutorial/blob/main/v2rayN%20Windows%20%E7%94%B5%E8%84%91%E7%89%88%20%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80%E4%BB%A5%E5%8F%8A%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md
