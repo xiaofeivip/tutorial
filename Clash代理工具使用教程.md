@@ -1,6 +1,6 @@
 # Windos端Clash代理工具使用教程
 
-下载地址：https://521github.com/clash-verge-rev/clash-verge-rev/releases
+下载地址：https://github.com/clash-verge-rev/clash-verge-rev/releases
 
 **1、Clash.Verge_1.5.10_x64-setup.exe，下载这个软件**
 ![image-20240324212227270](https://github.com/xiaofeivip/tutorial/assets/37949125/20e2ca07-620f-4bc6-831b-89315ed85730)
@@ -57,8 +57,8 @@ https://www.google.com/
 
 # ClashAndroid安卓版下载地址以及详细使用教程
 
-https://521github.com/xiaofeivip/tutorial/blob/main/ClashAndroid%E5%AE%89%E5%8D%93%E7%89%88%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80%E4%BB%A5%E5%8F%8A%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md
+https://github.com/xiaofeivip/tutorial/blob/main/ClashAndroid%E5%AE%89%E5%8D%93%E7%89%88%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80%E4%BB%A5%E5%8F%8A%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md
 
 # v2rayN Windows 电脑版 下载地址以及详细使用教程
 
-https://521github.com/xiaofeivip/tutorial/blob/main/v2rayN%20Windows%20%E7%94%B5%E8%84%91%E7%89%88%20%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80%E4%BB%A5%E5%8F%8A%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md
+https://github.com/xiaofeivip/tutorial/blob/main/v2rayN%20Windows%20%E7%94%B5%E8%84%91%E7%89%88%20%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80%E4%BB%A5%E5%8F%8A%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md
