@@ -19,9 +19,12 @@
 
 ![d7c52128d0aa00d52d30d64a5d96823](https://github.com/xiaofeivip/tutorial/assets/37949125/b07d29b1-2733-45a1-a475-83ad19f1cc1e)
 
-打开：https://psub.888005.xyz/，粘贴订阅地址，然后生成订阅，点击复制即可
+打开：https://api.v1.mk/sub?target=clash&url=填写自己的url
 
-![image](https://github.com/xiaofeivip/tutorial/assets/37949125/cf27732e-058a-4745-8e65-c7d00fdc809d)
+如：https://api.v1.mk/sub?target=clash&url=https://shz.al/28Rd
+
+![image](https://github.com/user-attachments/assets/660d2919-80aa-43c4-a8c1-9e4d0fff95d1)
+
 
 **2、选择代理，选择数字最小的即可**
 
